@@ -16,6 +16,14 @@ Aplikasi chatbot untuk membantu siswa SMA menentukan **jurusan/bidang kuliah** b
 - **LangChain + Chroma** untuk RAG (konteks profil + dokumen lampiran).
 - **PyPDF2 & python-docx** untuk ekstraksi teks dari PDF/DOCX.
 
+## 🖼️ App Screenshots
+<p align="center">
+  <img src="imgs/screenshot_1.png" style="width:90%;" />
+  <img src="imgs/screenshot_2.png" style="width:90%;" />
+  <img src="imgs/screenshot_3.png" style="width:90%;" />
+  <img src="imgs/screenshot_4.png" style="width:90%;" />
+</p>
+
 ## 📦 Instalasi
 Pastikan Python **3.10+** lalu jalankan:
 
