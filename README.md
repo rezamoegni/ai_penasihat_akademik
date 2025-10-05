@@ -51,7 +51,8 @@ Buka URL yang ditampilkan (biasanya `http://localhost:8501`).
 </p>
 
 ## 🚀 Menjalankan Aplikasi Live Demo Di Streamlit Clouds
-Klik link berikut : [Live demo](https://penasihat-akademik.streamlit.app/)
+Klik link berikut untuk menjalankan aplikasi di Stremlit tanpa perlu memasukkan Google API Key: 
+[Live demo](https://penasihat-akademik.streamlit.app/)
 
 ## 🖼️ App Screenshots (Streamlie)
 <p align="center">
