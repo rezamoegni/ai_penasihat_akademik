@@ -176,9 +176,9 @@ with st.sidebar:
     google_api_key = st.secrets.get("GOOGLE_API_KEY", None)
 
     if google_api_key:
-      st.success("✅ API Key Tersambung")
+        st.success("✅ API Key Tersambung")
     else:
-      st.warning("⚠️ API Key Tidak Tersambung")
+        st.warning("⚠️ API Key Tidak Tersambung")
 
     st.divider()
     if st.button("🧹 Bersihkan Obrolan"):
