@@ -16,14 +16,6 @@ Aplikasi chatbot untuk membantu siswa SMA menentukan **jurusan/bidang kuliah** b
 - **LangChain + Chroma** untuk RAG (konteks profil + dokumen lampiran).
 - **PyPDF2 & python-docx** untuk ekstraksi teks dari PDF/DOCX.
 
-## 🖼️ App Screenshots
-<p align="center">
-  <img src="imgs/screenshot_1.png" style="width:90%;" />
-  <img src="imgs/screenshot_2.png" style="width:90%;" />
-  <img src="imgs/screenshot_3.png" style="width:90%;" />
-  <img src="imgs/screenshot_4.png" style="width:90%;" />
-</p>
-
 ## 📦 Instalasi
 Pastikan Python **3.10+** lalu jalankan:
 
@@ -50,8 +42,21 @@ streamlit run ai_penasihat_akademik.py
 
 Buka URL yang ditampilkan (biasanya `http://localhost:8501`).
 
+## 🖼️ App Screenshots (Local)
+<p align="center">
+  <img src="imgs/screenshot_1.png" style="width:90%;" />
+  <img src="imgs/screenshot_2.png" style="width:90%;" />
+  <img src="imgs/screenshot_3.png" style="width:90%;" />
+  <img src="imgs/screenshot_4.png" style="width:90%;" />
+</p>
+
 ## 🚀 Menjalankan Aplikasi Live Demo Di Streamlit Clouds
 [Live demo](https://penasihat-akademik.streamlit.app/)
+
+## 🖼️ App Screenshots (Streamlie)
+<p align="center">
+  <img src="imgs/screenshot_live_1.png" style="width:90%;" />
+</p>
 
 ## 📝 Cara Pakai
 1. Isi **Profil Akademik**: skor mapel, minat, gaya belajar, dan toleransi matematika.
