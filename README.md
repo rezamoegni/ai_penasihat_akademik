@@ -51,7 +51,7 @@ Buka URL yang ditampilkan (biasanya `http://localhost:8501`).
 </p>
 
 ## 🚀 Menjalankan Aplikasi Live Demo Di Streamlit Clouds
-[Live demo](https://penasihat-akademik.streamlit.app/)
+Klik link berikut : [Live demo](https://penasihat-akademik.streamlit.app/)
 
 ## 🖼️ App Screenshots (Streamlie)
 <p align="center">
